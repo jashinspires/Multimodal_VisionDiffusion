@@ -1,5 +1,5 @@
 # 🎨 VisionDiffusion
-
+![Views](https://hits.seeyoufarm.com/api/count/graph/badge.svg?url=https%3A%2F%2Fgithub.com%2FJashInspires%2FMultimodal_VisionDiffusion&title=Views)
 > A full-stack application for AI-powered image analysis and generation
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js)
