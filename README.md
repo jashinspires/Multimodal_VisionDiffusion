@@ -1,5 +1,6 @@
 # 🎨 VisionDiffusion
 > A full-stack application for AI-powered image analysis and generation
+![Visitors](https://api.visitorbadge.io/api/visitors?page=https%3A%2F%2Fgithub.com%2FYOUR_USERNAME%2FYOUR_REPO_NAME&color=007ec6&label=REVIEWS)
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.109-009688?style=flat-square&logo=fastapi)
