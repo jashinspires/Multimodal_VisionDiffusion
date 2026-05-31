@@ -1,4 +1,5 @@
 # 🎨 VisionDiffusion
+![Repository Views](https://komarev.com/ghpvc/?username=jashinspires&repo=Numpyknowledge&label=Views&color=007ec6&style=flat-square)
 > A full-stack application for AI-powered image analysis and generation
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js)
